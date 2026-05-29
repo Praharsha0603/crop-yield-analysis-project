@@ -7,6 +7,18 @@ The objective is to identify how environmental factors such as rainfall, tempera
 
 ---
 
+## Dashboard Preview
+
+### Page 1 - Crop Yield Dashboard
+
+![Dashboard Page 1](Screenshots/Power_bi_ss1.png)
+
+### Page 2 - Environmental & Agricultural Insights
+
+![Dashboard Page 2](Screenshots/Power_bi_ss2.png)
+
+---
+
 ## 🛠 Tools Used
 
 - Python
